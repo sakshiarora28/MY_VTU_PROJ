@@ -17,4 +17,12 @@ main{
 footer{
     background-color: rgb(223, 199, 168);
     padding: 10px;
+    margin-top: 0.5rem;
+}
+marquee{
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+.p-style{
+    text-align: justify;
 }
