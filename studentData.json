@@ -1,0 +1,25 @@
+{
+    "studentData":[
+        {
+            "_id":1,
+            "RegistrationID": "1ST19CS221",
+            "Student Name":"Somya S",
+            "Father Name":"Rakesh Singh",
+            "College Name":"BIT"
+        },
+        {
+            "_id":2,
+            "RegistrationID": "1ST19IT209",
+            "Student Name":"Priyank A",
+            "Father Name":"Nagesh Kumar",
+            "College Name":"BIT"
+        },
+        {
+            "_id":1,
+            "RegistrationID": "1ST19EC679",
+            "Student Name":"Akash Yadav",
+            "Father Name":"Ajay Yadav",
+            "College Name":"BIT"
+        }
+    ]
+}

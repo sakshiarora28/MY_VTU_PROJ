@@ -1,0 +1,184 @@
+{
+    "studentInfo" : [
+        {
+            "_id":1,
+            "studentID":1,
+            "RegistrationID":"1ST19CS221",
+            "studentName":"Somya S",
+            "FatherName": "Rakesh Singh",
+            "CollegeName": "BIT",
+            "code":"CSE001",
+            "subject":"JAVA",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"65",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":2,
+            "studentID":1,
+            "RegistrationID":"1ST19CS221",
+            "studentName":"Somya S",
+            "FatherName": "Rakesh Singh",
+            "CollegeName": "BIT",
+            "code":"CSE002",
+            "subject":"Python",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"70",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":3,
+            "studentID":1,
+            "RegistrationID":"1ST19CS221",
+            "studentName":"Somya S",
+            "FatherName": "Rakesh Singh",
+            "CollegeName": "BIT",
+            "code":"CSE003",
+            "subject":"SQL",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"80",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":4,
+            "studentID":1,
+            "RegistrationID":"1ST19CS221",
+            "studentName":"Somya S",
+            "FatherName": "Rakesh Singh",
+            "CollegeName": "BIT",
+            "code":"CSE004",
+            "subject":"Devops",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"28",
+            "result":"FAIL"
+        },
+        {
+            "_id":5,
+            "studentID":2,
+            "RegistrationID":"1ST19IT209",
+            "studentName":"Priyank A",
+            "FatherName": "Nagesh Kumar",
+            "CollegeName": "BIT",
+            "code":"IT001",
+            "subject":"JAVA",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"55",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":6,
+            "studentID":2,
+            "RegistrationID":"1ST19IT209",
+            "studentName":"Priyank A",
+            "FatherName": "Nagesh Kumar",
+            "CollegeName": "BIT",
+            "code":"IT002",
+            "subject":"Testing",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"68",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":7,
+            "studentID":2,
+            "RegistrationID":"1ST19IT209",
+            "studentName":"Priyank A",
+            "FatherName": "Nagesh Kumar",
+            "CollegeName": "BIT",
+            "code":"IT003",
+            "subject":"DBMS",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"45",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":8,
+            "studentID":2,
+            "RegistrationID":"1ST19IT209",
+            "studentName":"Priyank A",
+            "FatherName": "Nagesh Kumar",
+            "CollegeName": "BIT",
+            "code":"IT004",
+            "subject":"DAA",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"75",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":9,
+            "studentID":3,
+            "RegistrationID":"1ST19EC679",
+            "studentName":"Akash Yadav",
+            "FatherName": "Ajay Yadav",
+            "CollegeName": "BIT",
+            "code":"EC001",
+            "subject":"EE",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"60",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":10,
+            "studentID":3,
+            "RegistrationID":"1ST19EC679",
+            "studentName":"Akash Yadav",
+            "FatherName": "Ajay Yadav",
+            "CollegeName": "BIT",
+            "code":"EC002",
+            "subject":"JAVA",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"78",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":11,
+            "studentID":3,
+            "RegistrationID":"1ST19EC679",
+            "studentName":"Akash Yadav",
+            "FatherName": "Ajay Yadav",
+            "CollegeName": "BIT",
+            "code":"EC003",
+            "subject":"MATHS",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"88",
+            "result":"PASS"
+            
+        },
+        {
+            "_id":12,
+            "studentID":3,
+            "RegistrationID":"1ST19EC679",
+            "studentName":"Akash Yadav",
+            "FatherName": "Ajay Yadav",
+            "CollegeName": "BIT",
+            "code":"EC004",
+            "subject":"COMMUNICATION",
+            "max_marks":"100",
+            "min_marks":"35",
+            "obtained_marks":"66",
+            "result":"PASS"
+            
+        }
+        
+    ]
+}
